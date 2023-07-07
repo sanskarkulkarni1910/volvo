@@ -13,6 +13,7 @@ export default function My1() {
           <button className='rounded-pill'><a href="" className="nav-link" >Services</a></button>&nbsp;&nbsp;
           <button className='rounded-pill'><a href="" className="nav-link" >Gallery</a></button>&nbsp;&nbsp;
           <button className='rounded-pill'><a href="" className="nav-link" >Contact </a></button>&nbsp;&nbsp;
+      <button></button>
         </div>
       </div>
     </nav>
